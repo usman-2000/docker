@@ -1,5 +1,5 @@
 # project is running on this node version
-FROM node:18.20
+FROM node:16
 
 # Telling that in docker which is the main folder in which your project present
 WORKDIR /app
